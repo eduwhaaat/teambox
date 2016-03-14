@@ -17,7 +17,7 @@ function UserResource($resource) {
       params: {
         id: 'me'
       }
-    }
+
   });
 }
 
